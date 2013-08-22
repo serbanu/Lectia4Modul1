@@ -1,0 +1,25 @@
+input[type="text"]
+{
+	width: 15px;
+	height: 10px;
+}
+.same {
+	border: 1px solid white;
+	display: inline-block;
+}
+.checkSize {
+	height: 20px;
+	width: 20px;
+}
+.wrongSize {
+	height: 20px;
+	width: 20px;
+}
+td{
+   
+    margin: 5px;
+    cursor: pointer;
+  }
+td:hover {
+    background: yellow;
+  }
