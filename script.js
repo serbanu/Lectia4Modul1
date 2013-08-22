@@ -23,5 +23,5 @@ function createTable()
 			tbody += '</tr>\n';
 			var tfooter = '</table></div>';
     document.getElementById('tabelinitial').innerHTML = theader + tbody + tfooter;
-
+//
 }
